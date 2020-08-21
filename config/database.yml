@@ -59,9 +59,9 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: articles
-  username: santhosh
-  password: postgres@123
+  database: d9779q3eooetg8
+  username: nuylqgrwfxnlle
+  password: f4bdcf11b7a2e8f5c850125a02948cc9d7db83adf17b1132c232dedd2a22a04c
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -84,6 +84,6 @@ test:
 #
 production:
   <<: *default
-  database: articles
-  username: santhosh
-  password: postgres@123
+  database: d9779q3eooetg8
+  username: nuylqgrwfxnlle
+  password: f4bdcf11b7a2e8f5c850125a02948cc9d7db83adf17b1132c232dedd2a22a04c

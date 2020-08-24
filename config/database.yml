@@ -84,6 +84,6 @@ test:
 #
 production:
   <<: *default
-  database: d9779q3eooetg8
-  username: nuylqgrwfxnlle
-  password: f4bdcf11b7a2e8f5c850125a02948cc9d7db83adf17b1132c232dedd2a22a04c
+  database: d8jcshm80jhi95
+  username: ofgyuggrolvsrg
+  password: 23ea48ef792b9447fe32b2dcc852ee39045aaaa4bbb3eb6a67d5a7793db30e89
